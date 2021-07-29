@@ -22,6 +22,6 @@ This repository allows you to get the space engineers dlcs for free, if there ar
 
 # Credits
 
-Great thanks to Lamer87 who made [Space_Engineers_DLC_unlocker](https://github.com/Lamer87/Space_Engineers_DLC_unlocker) and 0x000015, that made [ColorfulRainbow](https://github.com/0x000015/ColorfulRainbow).
+Great thanks to Lamer87 who made [Space_Engineers_DLC_unlocker](https://github.com/Lamer87/Space_Engineers_DLC_unlocker) and 0x000015 that made [ColorfulRainbow](https://github.com/0x000015/ColorfulRainbow).
 
 I felt like making my own as i can update it whenever another update hits and they gave me the insipration and knowledge to do so. 
