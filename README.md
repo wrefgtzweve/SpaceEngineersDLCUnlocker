@@ -14,8 +14,8 @@ This repository allows you to get the space engineers dlcs for free, if there ar
 - **[Download latest version](https://github.com/wrefgtzweve/SpaceEngineersDLCUnlocker/releases/latest)**
 
 # FAQ
-### Can you unlock all the premium skins too?
-- From as far as i can see no, those are managed through steam inventory.
+### Can you unlock all the DLC skins too?
+- From as far as i can see no, those are managed through steam inventory and thus cannot be done.
 
 # Credits
 
