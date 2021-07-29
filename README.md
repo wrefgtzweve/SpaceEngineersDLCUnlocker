@@ -4,7 +4,7 @@
 This repository allows you to get the space engineers dlcs for free, if there are any issues feel free to make a new issue in the issues tab or make a pr with the new dlc files and i'll gladly take a look at it.
 
 # Installation
-1. download the file from the shown below download link
+1. Download the Source Code (zip) from the link below.
 2. Unzip the downloaded file.
 3. Open the folder and find the Content file. 
 4. Move the content folder in your space engineers installation. The default installation location is: `C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\`
