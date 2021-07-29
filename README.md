@@ -17,7 +17,7 @@ This repository allows you to get the space engineers dlcs for free, if there ar
 ### Can you unlock all the DLC skins too?
 - From as far as i can see no, those are managed through steam inventory and thus cannot be done.
 
-### Can you add the latest dlc blocks?
+### Can you add the latest DLC blocks?
 - Yes! let me know in the issues tab and i'll gladly do so.
 
 # Credits
