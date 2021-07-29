@@ -9,4 +9,5 @@ This repository allows you to get the space engineers dlcs for free, if there ar
 4. Move the extracted folder "SpaceEngineers" to your space engineers installation point, by defaul: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\
 5. Replace all
 6. Done!
+
 [Download](https://github.com/wrefgtzweve/SpaceEngineersDLCUnlocker/archive/refs/heads/master.zip)
