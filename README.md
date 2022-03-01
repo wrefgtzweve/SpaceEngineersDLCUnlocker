@@ -20,6 +20,11 @@ This repository allows you to get the space engineers dlcs for free, if there ar
 ### Can you add the latest DLC blocks?
 - Yes! let me know in the issues tab and i'll gladly do so.
 
+### Does this work for player skins?
+- No, however there is a method available that makes the skins visible for yourself which can be found [here](https://imgur.com/a/MCTwsfd), thanks to [gorre9090](https://github.com/gorre9090) for showing me this!
+
+
+
 # Credits
 
 Great thanks to Lamer87 who made [Space_Engineers_DLC_unlocker](https://github.com/Lamer87/Space_Engineers_DLC_unlocker) and 0x000015 that made [ColorfulRainbow](https://github.com/0x000015/ColorfulRainbow).
