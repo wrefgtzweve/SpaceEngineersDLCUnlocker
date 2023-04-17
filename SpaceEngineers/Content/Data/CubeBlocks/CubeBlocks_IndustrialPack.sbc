@@ -702,6 +702,44 @@
             <IsAirTight>false</IsAirTight>
         </Definition>
 
+        <Definition>
+            <Id>
+                <TypeId>CubeBlock</TypeId>
+                <SubtypeId>LargeBlockConveyorPipeCap</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_PipeCap</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\PipeCap.dds</Icon>
+            <Description>Description_ConveyorTube</Description>
+            <CubeSize>Large</CubeSize>
+            <GuiVisible>false</GuiVisible>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Large\PipeCap.mwm</Model>
+            <Components>
+                <Component Subtype="InteriorPlate" Count="5" />
+                <Component Subtype="Construction" Count="10" />
+                <Component Subtype="InteriorPlate" Count="5" />
+            </Components>
+            <CriticalComponent Subtype="Construction" Index="0" />
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0.2" StartY="0.2" EndX="0.8" EndY="0.8" />
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\PipeCapConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\PipeCapConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\PipeCapConstruction_3.mwm" />
+            </BuildProgressModels>
+            <BlockPairName>PipeCap</BlockPairName>
+            <MirroringY>Z</MirroringY>
+            <MirroringZ>Y</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>10</BuildTimeSeconds>
+            <IsAirTight>false</IsAirTight>
+            <PCU>1</PCU>
+            <!-- <DLC>HeavyIndustry</DLC> -->
+        </Definition>
+
         <Definition xsi:type="MyObjectBuilder_GasTankDefinition">
             <Id>
                 <TypeId>OxygenTank</TypeId>
