@@ -1,4 +1,7 @@
 # Space Engineers DLC unlocker
+
+# This is now obsolete as new checks have been introduced to the game, however there's a new method. You can use this tool for space engineers dlcs and other games dlcs: https://github.com/pointfeev/CreamInstaller
+
 ## Updated to: `v1.202 - Automatons`
 
 This repository allows you to get the space engineers dlcs for free, if there are any issues feel free to make a new issue in the issues tab or make a pr with the new dlc files and i'll take a look at it.
@@ -29,4 +32,4 @@ This repository allows you to get the space engineers dlcs for free, if there ar
 
 Great thanks to Lamer87 who made [Space_Engineers_DLC_unlocker](https://github.com/Lamer87/Space_Engineers_DLC_unlocker) and 0x000015 that made [ColorfulRainbow](https://github.com/0x000015/ColorfulRainbow).
 
-I felt like making my own as i can update it whenever another update hits and they gave me the insipration and knowledge to do so. 
+I felt like making my own as i can update it whenever another update hits and they gave me the insipration and knowledge to do so.
