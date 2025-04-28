@@ -1,6 +1,6 @@
 # Space Engineers DLC unlocker
 
-# This is now obsolete as new checks have been introduced to the game, however there's a new method. You can use this tool for space engineers dlcs and other games dlcs: https://github.com/pointfeev/CreamInstaller
+# This is now obsolete as new checks have been introduced to the game, however there's a new method. You can use this tool for space engineers dlcs and other games dlcs: https://github.com/pointfeev/CreamInstaller / https://www.reddit.com/r/Creaminstaller/comments/1h9mqjr/creaminstaller_download/
 
 ## Updated to: `v1.202 - Automatons`
 
